@@ -2,9 +2,7 @@
   <img height="250" src="https://tech.thinkrayz.com/wp-content/themes/dev-company/assets/images/devloper.png"  />
 </div>
 
-<div align="center">
-## Hi there 👋
-</div>
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
